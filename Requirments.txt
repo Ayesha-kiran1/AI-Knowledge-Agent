@@ -1,0 +1,5 @@
+These are the specific libraries our Internal Knowledge Agent uses:
+google-genai
+streamlit
+python-dotenv
+PyPDF2
