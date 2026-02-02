@@ -4,4 +4,9 @@ An autonomous agent that analyzes PDF documents and provides context-aware summa
 ## 🚀 How to Run
 1. **Install requirements:**
    ```bash
+
    pip install -r requirements.txt
+
+
+
+   Co-developer: Fatima Naeem
